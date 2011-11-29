@@ -1,1 +1,0 @@
-cmd_drivers/media/s3c6410/camera/samsung/flash/built-in.o :=  rm -f drivers/media/s3c6410/camera/samsung/flash/built-in.o; arm-linux-gnueabi-ar rcs drivers/media/s3c6410/camera/samsung/flash/built-in.o

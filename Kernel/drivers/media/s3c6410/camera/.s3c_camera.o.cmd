@@ -1,1 +1,0 @@
-cmd_drivers/media/s3c6410/camera/s3c_camera.o := arm-linux-gnueabi-ld -EL    -r -o drivers/media/s3c6410/camera/s3c_camera.o drivers/media/s3c6410/camera/s3c_camif.o drivers/media/s3c6410/camera/s3c_camera_driver.o 

@@ -1,1 +1,0 @@
-cmd_arch/arm/mach-s3c6410/built-in.o :=  arm-linux-gnueabi-ld -EL    -r -o arch/arm/mach-s3c6410/built-in.o arch/arm/mach-s3c6410/cpu.o arch/arm/mach-s3c6410/irq.o arch/arm/mach-s3c6410/setup-sdhci.o arch/arm/mach-s3c6410/pm.o arch/arm/mach-s3c6410/mach-instinctq.o arch/arm/mach-s3c6410/board-rfkill.o arch/arm/mach-s3c6410/sec_headset.o 
