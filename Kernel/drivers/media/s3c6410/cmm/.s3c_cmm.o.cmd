@@ -1,0 +1,1 @@
+cmd_drivers/media/s3c6410/cmm/s3c_cmm.o := arm-linux-gnueabi-ld -EL    -r -o drivers/media/s3c6410/cmm/s3c_cmm.o drivers/media/s3c6410/cmm/LogMsg.o drivers/media/s3c6410/cmm/CMMMisc.o drivers/media/s3c6410/cmm/s3c-cmm.o 
